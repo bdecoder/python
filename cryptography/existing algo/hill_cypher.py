@@ -1,3 +1,6 @@
+#THIS CODE IS STILL IN DEV
+
+
 import numpy as np
 
 def letter_to_number(string):
